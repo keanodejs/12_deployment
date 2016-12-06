@@ -28,3 +28,5 @@ A description on how to deploy to Heruko
 
 ## with a mongodb connected
 
+1. create an account on https://mlab.com/
+1. 
